@@ -25,11 +25,31 @@ Data Analyst focused on translating business problems into analytical solutions 
 
 ## 📊 Projects
 
-* 📈 Sales & Revenue Analysis Dashboards
-* 🏢 Real Estate Performance Analytics
-* 📊 B2B Sales & Pipeline Analysis
-* 🎬 Python Data Analysis Projects
+### [Real Estate Performance & Client Engagement Dashboard](YOUR_PROJECT_LINK)
+`Power BI` `DAX` `Power Query`
 
+- Tracked **$1.54B total sales** with 40% conversion rate and 21.4% YoY growth
+- **Key finding:** 71.9% of sales happened on weekdays; properties 350–500 m² were highest demand — used to guide agent scheduling and inventory strategy
+- 52% repeat buyer rate tracked via DAX retention measures
+
+---
+
+### [B2B Sales & Distribution Performance Dashboard](YOUR_PROJECT_LINK)
+`Power BI` `DAX` `Power Query` `Team Lead`
+
+- Led a **5-member team** to define KPIs and deliver a dashboard tracking **$475K in sales** and **60% YoY growth**
+- DAX measures: avg. sales per customer ($5.34K), retention rate (91.86%), weekend vs weekday split (40/60%)
+- International markets accounted for **81.68% of sales** — identified as key growth channel
+
+---
+
+### [Movie Industry Analysis](YOUR_PROJECT_LINK)
+`Python` `Pandas` `Matplotlib` `Seaborn`
+
+- EDA on **6,800+ film records** analyzing revenue, votes, and IMDb score distributions
+- Animation & Family genres generate **45–60% higher average gross** than other categories
+- Marvel outperforms the industry average by **25%+**; 8.0–9.0 IMDb range = peak revenue segment
+  
 ---
 
 ## 📫 Connect with Me
