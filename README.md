@@ -26,18 +26,22 @@ Data Analyst focused on transforming raw data into meaningful insights that supp
 
 ---
 
-## 📊 Projects
+## 📊 Projects (Featured)
 
-* 📈 Sales & Revenue Analysis Dashboards
-* 🏢 Real Estate Performance Analytics
-* 📊 B2B Sales & Pipeline Analysis
-* 🎬 Python Data Analysis Projects
+* 📈 Sales & Revenue Analysis Dashboards (Power BI, Excel)
+* 🏢 Real Estate Performance Analytics (Power BI, DAX)
+* 📊 B2B Sales & Pipeline Analysis (Power BI, SQL)
+* 🎬 Movie Industry Data Analysis (Python, Pandas, Seaborn)
 
 ---
 
-## 📂 Portfolio
+## 🌐 Portfolio
 
-👉 [https://ahmedmamdouh-khaled-saleh.journoportfolio.com/](https://ahmedmamdouh-khaled-saleh.journoportfolio.com/)
+<p align="center">
+  <a href="https://ahmedmamdouh-khaled-saleh.journoportfolio.com/">
+    <img src="https://img.shields.io/badge/JournoPortfolio-View-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -50,7 +54,7 @@ Data Analyst focused on transforming raw data into meaningful insights that supp
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://ahmedmamdouh-khaled-saleh.journoportfolio.com/">
+  <a href="https://ahmedmamdouh-khaled-saleal.journoportfolio.com/">
     <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
