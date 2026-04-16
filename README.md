@@ -1,63 +1,60 @@
-# Ahmed Mamdouh 👋
+# 👋 Hi there, I'm Ahmed Mamdouh
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&width=600&lines=Ahmed+Mamdouh;Data+Analyst;Business+Intelligence;Power+BI+%7C+SQL+%7C+Excel;Building+Insight-Driven+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&width=600&lines=Ahmed+Mamdouh;Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+into+Insights" />
 </p>
 
-## Data Analyst | Power BI • SQL • Excel • Python
+---
 
-I specialize in transforming data into clear, actionable insights that support business performance and decision-making. My work focuses on analyzing datasets, identifying trends, and delivering structured, insight-driven reporting.
+## 🚀 About Me
+
+Data Analyst focused on transforming raw data into meaningful insights that support business decisions. Skilled in analyzing datasets, identifying trends, and building clear reporting solutions.
 
 ---
 
-## 💼 Core Expertise
+## 🛠️ Skills
 
-* Data Analysis & Exploration (EDA)
-* KPI Tracking & Performance Analysis
-* Dashboard Development (Power BI & Excel)
-* Data Cleaning & Transformation (Power Query, Python)
-* SQL for Data Extraction & Analysis
-* Data Visualization (Power BI, Matplotlib, Seaborn)
-* Business-Oriented Data Storytelling
-
----
-
-## 🛠️ Technical Stack
-
-* **Analytics & Processing:** Python (Pandas, Matplotlib, Seaborn), Excel
-* **Visualization:** Power BI (DAX, Power Query)
-* **Data Management:** SQL
-* **Concepts:** Data Modeling, Reporting, Business Analysis
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 Portfolio
+## 📊 Projects
 
-Explore my work and projects here:
+* 📈 Sales & Revenue Analysis Dashboards
+* 🏢 Real Estate Performance Analytics
+* 📊 B2B Sales & Pipeline Analysis
+* 🎬 Python Data Analysis Projects
+
+---
+
+## 📂 Portfolio
+
 👉 [https://ahmedmamdouh-khaled-saleh.journoportfolio.com/](https://ahmedmamdouh-khaled-saleh.journoportfolio.com/)
 
 ---
 
-## 📊 Selected Work
+## 📫 Connect with Me
 
-I develop analytical solutions across multiple domains, focusing on performance analysis, sales analytics, and business intelligence reporting.
-
-Explore my repositories to see how I approach real-world data problems.
-
----
-
-## 📫 Contact
-
-* Email: [ahmedmamdouh29004@gmail.com](mailto:ahmedmamdouh29004@gmail.com)
-* LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/)
-
----
-
-## ⚡ Professional Focus
-
-* Delivering insight-driven analysis aligned with business goals
-* Continuously improving analytical and technical capabilities
-* Building structured and scalable data solutions
+<p align="center">
+  <a href="mailto:ahmedmamdouh29004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://ahmedmamdouh-khaled-saleh.journoportfolio.com/">
+    <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ Always open to collaboration and data-driven opportunities.
+⭐ Always open to data-driven opportunities and collaboration.
