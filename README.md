@@ -25,8 +25,19 @@ Data Analyst focused on translating business problems into analytical solutions 
 
 ## 📊 Projects
 
-### [Real Estate Performance & Client Engagement Dashboard](YOUR_PROJECT_LINK)
+
+### [📊 B2B CRM Pipeline & Revenue Performance Analytics](https://github.com/ahmedmamdouh29004/b2b-sales-pipeline-analytics)
+
 `Power BI` `DAX` `Power Query`
+
+- Built a Power BI dashboard analyzing **8,800 B2B sales opportunities** across a full CRM pipeline
+- Developed **15+ DAX measures** for KPIs, time intelligence, and performance segmentation
+- Identified **21% win rate drop in Q2** despite revenue peaking at $3.1M, revealing hidden pipeline inefficiencies
+- Discovered key risks: **11.5% dependency on a single agent** and **73% revenue concentration in GTX product line**
+
+### [Real Estate Performance & Client Engagement Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODExNzgyODQtNDQ0Yi00YzAxLTkxYTEtNDc0MGUxZGRmZGIyIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
+`Power BI` `DAX` `Power Query`
+GitHub: [Repo Link]
 
 - Tracked **$1.54B total sales** with 40% conversion rate and 21.4% YoY growth
 - **Key finding:** 71.9% of sales happened on weekdays; properties 350–500 m² were highest demand — used to guide agent scheduling and inventory strategy
@@ -34,8 +45,9 @@ Data Analyst focused on translating business problems into analytical solutions 
 
 ---
 
-### [B2B Sales & Distribution Performance Dashboard](YOUR_PROJECT_LINK)
+### [B2B Sales & Distribution Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE3NzZkNWYtMmY5MC00M2U3LTlhZmMtZjZmYjAyMDQwOGY0IiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9&pageName=330d161c4eca3e82ae89)
 `Power BI` `DAX` `Power Query` `Team Lead`
+GitHub: [Repo Link]
 
 - Led a **5-member team** to define KPIs and deliver a dashboard tracking **$475K in sales** and **60% YoY growth**
 - DAX measures: avg. sales per customer ($5.34K), retention rate (91.86%), weekend vs weekday split (40/60%)
@@ -45,6 +57,7 @@ Data Analyst focused on translating business problems into analytical solutions 
 
 ### [Movie Industry Analysis](YOUR_PROJECT_LINK)
 `Python` `Pandas` `Matplotlib` `Seaborn`
+GitHub: [Repo Link]
 
 - EDA on **6,800+ film records** analyzing revenue, votes, and IMDb score distributions
 - Animation & Family genres generate **45–60% higher average gross** than other categories
