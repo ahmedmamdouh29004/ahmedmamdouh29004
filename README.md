@@ -51,3 +51,5 @@ Data Analyst focused on translating business problems into analytical solutions 
 ---
 
 ⭐ Open to Data Analyst & Business Intelligence opportunities
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
