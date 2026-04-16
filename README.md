@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ahmed Mamdouh
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&width=600&lines=Ahmed+Mamdouh;Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&width=600&lines=Ahmed+Mamdouh;Data+Analyst;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Turning+Data+into+Insights" />
 </p>
 
 ---
