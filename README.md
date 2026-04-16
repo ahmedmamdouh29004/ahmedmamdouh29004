@@ -44,7 +44,7 @@ Data Analyst focused on translating business problems into analytical solutions 
   </a>
 
   <a href="https://ahmedmamdouh-khaled-sale-saleal.journoportfolio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge"/>
   </a>
 </p>
 
