@@ -35,18 +35,19 @@ Data Analyst focused on translating business problems into analytical solutions 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:ahmedmamdouh29004@gmail.com">
+  <a href="mailto:ahmedmamdouh29004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://ahmedmamdouh-khaled-saleh.journoportfolio.com/">
-    <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge"/>
+  <a href="https://ahmedmamdouh-khaled-sale-saleal.journoportfolio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ⭐ Open to Data Analyst & Business Intelligence opportunities
