@@ -47,6 +47,6 @@ Data Analyst focused on translating business problems into analytical solutions 
     <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge"/>
   </a>
 </p>
----
+
 
 ⭐ Open to Data Analyst & Business Intelligence opportunities
