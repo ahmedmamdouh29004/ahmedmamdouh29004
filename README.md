@@ -28,25 +28,16 @@ Data Analyst focused on transforming raw data into meaningful insights that supp
 
 ## 📊 Projects
 
-### 📈 Sales & Revenue Analysis Dashboards
+* 📈 Sales & Revenue Analysis Dashboards
+* 🏢 Real Estate Performance Analytics
+* 📊 B2B Sales & Pipeline Analysis
+* 🎬 Python Data Analysis Projects
 
-Power BI | Excel
-KPI tracking, performance analysis & trend insights
+---
 
-### 🏢 Real Estate Performance Analytics
+## 📂 Portfolio
 
-Power BI | DAX
-Customer behavior & property demand analysis
-
-### 📊 B2B Sales & Pipeline Analysis
-
-Power BI | SQL
-Revenue performance & conversion optimization
-
-### 🎬 Python Data Analysis Projects
-
-Python | Pandas | Seaborn
-Exploratory Data Analysis on industry trends
+👉 [https://ahmedmamdouh-khaled-saleh.journoportfolio.com/](https://ahmedmamdouh-khaled-saleh.journoportfolio.com/)
 
 ---
 
@@ -59,11 +50,11 @@ Exploratory Data Analysis on industry trends
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://ahmedmamdouh-khaled-saleal.journoportfolio.com/">
+  <a href="https://ahmedmamdouh-khaled-saleh.journoportfolio.com/">
     <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ Open to Data Analyst & Business Intelligence opportunities
+⭐ Always open to data-driven opportunities and collaboration.
