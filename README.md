@@ -32,12 +32,6 @@ Data Analyst focused on transforming raw data into meaningful insights that supp
 
 ---
 
-## 📂 Portfolio
-
-👉 [https://ahmedmamdouh-khaled-saleh.journoportfolio.com/](https://ahmedmamdouh-khaled-saleh.journoportfolio.com/)
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
