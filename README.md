@@ -48,5 +48,6 @@ Data Analyst focused on translating business problems into analytical solutions 
   </a>
 </p>
 
+---
 
 ⭐ Open to Data Analyst & Business Intelligence opportunities
