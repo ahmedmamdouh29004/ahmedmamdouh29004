@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Data Analyst focused on transforming raw data into meaningful insights that support business decisions. Skilled in analyzing datasets, identifying trends, and building clear reporting solutions.
+Data Analyst focused on translating business problems into analytical solutions using data exploration, visualization, and reporting.
 
 ---
 
