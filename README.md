@@ -26,9 +26,10 @@ Data Analyst focused on translating business problems into analytical solutions 
 ## 📊 Projects
 
 
-### [📊 B2B CRM Pipeline & Revenue Performance Analytics](https://github.com/ahmedmamdouh29004/b2b-sales-pipeline-analytics)
+### [📊 B2B CRM Pipeline & Revenue Performance Analytics](https://vimeo.com/1182645961)
 
 `Power BI` `DAX` `Power Query`
+GitHub: [[Repo Link](https://github.com/ahmedmamdouh29004/b2b-sales-pipeline-analytics)]
 
 - Built a Power BI dashboard analyzing **8,800 B2B sales opportunities** across a full CRM pipeline
 - Developed **15+ DAX measures** for KPIs, time intelligence, and performance segmentation
