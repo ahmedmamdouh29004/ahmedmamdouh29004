@@ -48,7 +48,7 @@ GitHub: [[Repo Link](https://github.com/ahmedmamdouh29004/real-estate-analytics-
 
 ### [B2B Sales Performance & Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE3NzZkNWYtMmY5MC00M2U3LTlhZmMtZjZmYjAyMDQwOGY0IiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9&pageName=330d161c4eca3e82ae89)
 `Power BI` `DAX` `Power Query` `Team Lead`
-GitHub: [[Repo Link](https://github.com/ahmedmamdouh29004/b2b-sales-performance-analytics-dashboard)]
+GitHub: [https://github.com/ahmedmamdouh29004/b2b-sales-performance-analytics-dashboard]
 
 - Led a **5-member team** to define KPIs and deliver a dashboard tracking **$475K in sales** and **60% YoY growth**
 - DAX measures: avg. sales per customer ($5.34K), retention rate (91.86%), weekend vs weekday split (40/60%)
