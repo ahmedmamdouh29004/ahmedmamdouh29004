@@ -55,9 +55,7 @@ GitHub: [Repo Link](https://github.com/ahmedmamdouh29004/real-estate-analytics-p
 GitHub: [Repo Link](https://github.com/ahmedmamdouh29004/b2b-sales-performance-analytics-dashboard)
 
 - Led a 5-member team to define KPIs and deliver 7 interactive dashboards tracking **$475K revenue** and **60.31% YoY growth** across sales, customers, products, shipping, and geography  
-
 - Designed a 7-table Star Schema and developed 30+ DAX measures covering time intelligence, customer retention (91.86%), segmentation, and geographic performance — achieving **$5.34K average sales per customer**  
-
 - Identified that **81.68% of sales are international across 21 countries**, with the USA and Germany contributing **34% of total revenue**, translating insights into a data-driven market expansion roadmap   
 
 ---
