@@ -38,7 +38,7 @@ GitHub: [[Repo Link](https://github.com/ahmedmamdouh29004/b2b-sales-pipeline-ana
 
 ### [Real Estate Performance & Client Engagement Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODExNzgyODQtNDQ0Yi00YzAxLTkxYTEtNDc0MGUxZGRmZGIyIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
 `Power BI` `DAX` `Power Query`
-GitHub: [[Repo Link](https://github.com/ahmedmamdouh29004/real-estate-analytics-powerbi-dashboard)]
+GitHub: [[Repo Link]https://github.com/ahmedmamdouh29004/b2b-sales-performance-analytics-dashboard]
 
 - Tracked **$1.54B total sales** with 40% conversion rate and 21.4% YoY growth
 - **Key finding:** 71.9% of sales happened on weekdays; properties 350–500 m² were highest demand — used to guide agent scheduling and inventory strategy
