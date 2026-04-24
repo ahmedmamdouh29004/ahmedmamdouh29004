@@ -37,22 +37,26 @@ GitHub: [[Repo Link](https://github.com/ahmedmamdouh29004/b2b-sales-pipeline-ana
 - Discovered key risks: **11.5% dependency on a single agent** and **73% revenue concentration in GTX product line**
 
 ### [Real Estate Performance & Client Engagement Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODExNzgyODQtNDQ0Yi00YzAxLTkxYTEtNDc0MGUxZGRmZGIyIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
-`Power BI` `DAX` `Power Query`
-GitHub: [[Repo Link]https://github.com/ahmedmamdouh29004/b2b-sales-performance-analytics-dashboard]
 
-- Tracked **$1.54B total sales** with 40% conversion rate and 21.4% YoY growth
-- **Key finding:** 71.9% of sales happened on weekdays; properties 350–500 m² were highest demand — used to guide agent scheduling and inventory strategy
-- 52% repeat buyer rate tracked via DAX retention measures
+`Power BI` `DAX` `Power Query`
+
+GitHub: [Repo Link](https://github.com/ahmedmamdouh29004/real-estate-analytics-powerbi-dashboard)
+
+- Tracked **$1.54B total sales** with 40% conversion rate and 21.4% YoY growth  
+- **Key finding:** 71.9% of sales happened on weekdays; properties 350–500 m² were highest demand — used to guide agent scheduling and inventory strategy  
+- 52% repeat buyer rate tracked via DAX retention measures  
 
 ---
 
 ### [B2B Sales Performance & Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE3NzZkNWYtMmY5MC00M2U3LTlhZmMtZjZmYjAyMDQwOGY0IiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9&pageName=330d161c4eca3e82ae89)
-`Power BI` `DAX` `Power Query` `Team Lead`
-GitHub: [[Repo Link]https://github.com/ahmedmamdouh29004/b2b-sales-performance-analytics-dashboard]
 
-- Led a **5-member team** to define KPIs and deliver a dashboard tracking **$475K in sales** and **60% YoY growth**
-- DAX measures: avg. sales per customer ($5.34K), retention rate (91.86%), weekend vs weekday split (40/60%)
-- International markets accounted for **81.68% of sales** — identified as key growth channel
+`Power BI` `DAX` `Power Query` `Team Lead`
+
+GitHub: [Repo Link](https://github.com/ahmedmamdouh29004/b2b-sales-performance-analytics-dashboard)
+
+- Led a **5-member team** to define KPIs and deliver a dashboard tracking **$475K in sales** and **60% YoY growth**  
+- Built DAX measures including avg. sales per customer ($5.34K), retention rate (91.86%), and weekend vs weekday split (40/60)  
+- Identified **81.68% international sales contribution**, highlighting strong global market dependency and expansion opportunity  
 
 ---
 
